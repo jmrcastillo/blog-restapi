@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 djangorestframework = "*"
 pytest-django = "*"
+black = "*"
 
 [requires]
 python_version = "3.6"
