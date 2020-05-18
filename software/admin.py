@@ -1,5 +1,5 @@
-from django.contrib import admin
-from django.contrib.auth.models import Group, User
+from django.contrib import admin  # type: ignore
+from django.contrib.auth.models import Group, User  # type: ignore
 
 from .models import Blog
 
